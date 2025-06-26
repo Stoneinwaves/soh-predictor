@@ -7,12 +7,12 @@
 ## data文件夹目录
 
 ```
-├── data/                      # 数据集目录
-│   ├── processed_data_Capacity_*.csv  # Zhang 数据集原始命名
-│   ├── EIS_state_V_*.csv              # Zhang 数据集原始命名
-│   ├── Cell*_*SOH_*degC_95SOC_*.xls   # Rashid 数据集原始命名
-│   ├── mycell_j*.csv                  # 自测电池样本
-│   └── mycell_j*_lite.csv             # 自测电池样本（选定特征频率点）
+data/                      # 数据集目录
+├── processed_data_Capacity_*.csv  # Zhang 数据集原始命名
+├── EIS_state_V_*.csv              # Zhang 数据集原始命名
+├── Cell*_*SOH_*degC_95SOC_*.xls   # Rashid 数据集原始命名
+├── mycell_j*.csv                  # 自测电池样本
+└── mycell_j*_lite.csv             # 自测电池样本（选定特征频率点）
 
 ```
 
