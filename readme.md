@@ -1,4 +1,4 @@
-# 电池 SOH 预测器
+# EIS -> SOH Predictor
 
 基于电化学阻抗谱（EIS）预测锂离子电池健康状态（State-of-Health, SOH），支持模型训练、测试与单样本预测。
 
