@@ -4,7 +4,7 @@
 
 ---
 
-## 项目目录结构
+## data文件夹目录
 
 ```
 ├── data/                      # 数据集目录
@@ -13,15 +13,7 @@
 │   ├── Cell*_*SOH_*degC_95SOC_*.xls   # Rashid 数据集原始命名
 │   ├── mycell_j*.csv                  # 自测电池样本
 │   └── mycell_j*_lite.csv             # 自测电池样本（选定特征频率点）
-├── src/                       # 所有 Python 模块
-│   ├── __init__.py
-│   ├── data_loader.py
-│   ├── model.py
-│   ├── util.py
-│   ├── train.py
-│   ├── test.py
-│   └── inference.py
-└── README.md
+
 ```
 
 ---
